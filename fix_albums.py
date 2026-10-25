@@ -27,7 +27,7 @@ Instructions, what you need and how to use:
 # py -3.12 fix_albums.py --apply --force
 
 # Specify custom folder
-# py -3.12 fix_albums.py --folder "C:\Users\Username\Music\Deftones" --apply
+# py -3.12 fix_albums.py --folder "C:\Users\Username\Music\name of artist" --apply
 """
 import argparse
 import difflib
