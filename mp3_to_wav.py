@@ -5,7 +5,7 @@ from pathlib import Path
 
 import miniaudio
 
-# Instructions, what you need and how to use:'
+# Instructions, what you need and how to use:
 
 # Download miniaudio first, you can use this command: pip install miniaudio
 
