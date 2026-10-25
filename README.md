@@ -8,4 +8,4 @@
 
 ## Dependencies
 ```bash
-# pip install mutagen miniaudio ffmpeg
+pip install mutagen miniaudio ffmpeg
